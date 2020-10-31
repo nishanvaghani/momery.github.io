@@ -12,3 +12,5 @@ However, after a win and lose you will play again this game by clicking one butt
 Game structure
 The card arrangement is 100% dynamic each time.
 The information message is here.
+
+https://github.com/nishanvaghani/momery.github.io
