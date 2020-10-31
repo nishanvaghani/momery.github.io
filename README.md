@@ -13,4 +13,4 @@ Game structure
 The card arrangement is 100% dynamic each time.
 The information message is here.
 
-https://github.com/nishanvaghani/momery.github.io
+https://nishanvaghani.github.io/momery.github.io/
